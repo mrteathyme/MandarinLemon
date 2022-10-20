@@ -1,0 +1,6 @@
+logs/
+__pycache__/
+TestData/
+TrainingData/
+ValidationData/
+model.h5
